@@ -1,7 +1,10 @@
 library(shiny)
 library(janitor)
+library(readxl)
 
-path <- "/Users/aurorazhang/Projects/Academic Projects/LAFLA Rent Burden Project/Data/Cleaned/"
+path <- "/Users/aurorazhang/Projects/Academic Projects/LAFLA Rent Burden Project/lafla-rent-burden/Data/Merged LAFLA Data (Full Joins).xlsx"
+
+df <- read_excel(path)
 
 income <- read.csv(paste0(path, "income.csv"))
 income <- row_to_names(income, row_number = 1)
