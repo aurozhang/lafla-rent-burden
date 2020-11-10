@@ -54,7 +54,7 @@ ui <- fluidPage(
       selectInput("variableChoice", "Choose one or more variables:", choices = columnChoices, selected = c("city", "GEOID"), multiple = TRUE),
       
       # Choose the variables
-      selectInput("cityChoice", "Choose one or more Cites:", choices = cityChoices, multiple = TRUE, selected = "All Cities"),
+      selectInput("cityChoice", "Choose one or more Cites:", choices = cityChoices, multiple = TRUE),
       
       # Choose the variables
       selectInput("zipChoice", "Choose one or more Zip Codes:", choices = zipChoices, multiple = TRUE),
