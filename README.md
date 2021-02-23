@@ -2,7 +2,7 @@
 This repository contains the data,  Shiny App for data download and visualizations for the rent burden in LA project.
 
 # lafla-rent-burden/Data
-This folder contains the cleaned dataset downloaded based on LAFLA orignal request (Merged LAFLA Data (Clean Variable Names).csv). The [tracker](https://aka.ms/aznb-notebooks-at-msft) links to the source for each individual dataset. 
+This folder contains the cleaned dataset downloaded based on LAFLA orignal request (Merged LAFLA Data (Clean Variable Names).csv). The data tracker, [Data Tracker (2020.08.17).xlsx](https://github.com/aurozhang/lafla-rent-burden/blob/master/Data/Data%20Tracker%20(2020.08.17).xlsx), links to the source for each individual dataset. 
 # lafla-rent-burden/Data/Individual Datasets
 The individual dataset downloaded is saved in this folder. The source link for each file is contained in the data tracker. 
     
