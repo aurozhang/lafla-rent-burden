@@ -8,7 +8,7 @@ The individual dataset downloaded is saved in this [folder](https://github.com/a
     
 
 # lafla-rent-burden/shiny-app-az
-This (folder)[https://github.com/aurozhang/lafla-rent-burden/tree/master/Shiny%20App%20Website] contains the Shiny App that allows the users to download and view the data visualization.
+This [folder](https://github.com/aurozhang/lafla-rent-burden/tree/master/Shiny%20App%20Website) contains the Shiny App that allows the users to download and view the data visualization.
 
 The website link to the data download is here: https://jonathan-trinh.shinyapps.io/shiny_app_website/
 
