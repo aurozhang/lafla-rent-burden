@@ -10,6 +10,4 @@ The individual dataset downloaded are saved in this [folder](https://github.com/
 # lafla-rent-burden/Shiny App Website
 This [folder](https://github.com/aurozhang/lafla-rent-burden/tree/master/Shiny%20App%20Website) contains the Shiny App that allows the users to download and view the data visualization.
 
-The website link to the data download is here: https://jonathan-trinh.shinyapps.io/shiny_app_website/
-
-The map visualization currently does not work on Shiny App website. We have to run the R code locally. 
+The website link to the data download is here: https://xzuluaga.shinyapps.io/LAFLA/
